@@ -55,5 +55,5 @@ jdk1.8 windows
   
 当然可能会等到猴年马月，毕竟我是信息与计算科学的，需要学习主要课程。<br/>
 而且需要我去深入学习而不是了解。<br/>
-14. 最后欢迎到[我的博客](htttps://pengxiandyou.github.io)参观指导
+14. 最后欢迎到[我的博客](https://pengxiandyou.github.io)参观指导
   
